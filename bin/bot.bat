@@ -1,0 +1,1 @@
+cd ../scripts/ && python ./convert.py
